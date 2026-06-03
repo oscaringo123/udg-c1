@@ -23,3 +23,4 @@ dineroRestante = dineroInicial - gastoTotal
 if (dineroInicial <= dineroRestante):
     print("Gasto menos ya no te queda dinero para la semana")
 
+#por ejemplo 
